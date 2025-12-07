@@ -107,6 +107,3 @@ https://docs.google.com/presentation/d/1UqgBZo8FNR8RR984ikBC4vWScQtzUEYy/edit?us
 ---
 demo video link:
 https://drive.google.com/file/d/1VO5tz3jRerFuLHH_OimUei7DetmZ9oBk/view?usp=sharing
----
-ppt's link:
-https://docs.google.com/presentation/d/1UqgBZo8FNR8RR984ikBC4vWScQtzUEYy/edit?pli=1&slide=id.p1#slide=id.p1
