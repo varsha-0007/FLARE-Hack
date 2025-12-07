@@ -14,7 +14,11 @@ It helps dApps reward real user behavior such as:
 - Holding badges / achievements  
 
 This system can be integrated into gaming, identity, loyalty programs, or decentralized reputation systems.
-
+---
+used:
+**FDC**
+**FAssets**
+**FTSO**
 ---
 
 ## 🌟 **Features**
@@ -62,3 +66,30 @@ This system can be integrated into gaming, identity, loyalty programs, or decent
 ---
 
 ## 📦 **Project Structure**
+/project-root
+│── /frontend
+│ ├── components/
+│ ├── pages/
+│ ├── utils/
+│ └── styles/
+│
+│── /backend
+│ ├── routes/
+│ ├── controllers/
+│ ├── services/
+│ ├── config/
+│ └── scoreEngine.js
+│
+│── /contracts
+│ ├── KarmaEngine.sol
+│ └── interfaces/
+│
+│── README.md
+│── package.json
+└── .env
+---
+ppt's link:
+https://docs.google.com/presentation/d/1UqgBZo8FNR8RR984ikBC4vWScQtzUEYy/edit?usp=sharing&ouid=108649259445157788229&rtpof=true&sd=true
+---
+demo video link:
+https://drive.google.com/file/d/1VO5tz3jRerFuLHH_OimUei7DetmZ9oBk/view?usp=sharing
